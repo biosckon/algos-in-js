@@ -1,4 +1,4 @@
-### code is in `src/`
+### code is in `src/App.js`
 
 ```js
 function insertSort(a) {

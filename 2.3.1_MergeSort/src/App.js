@@ -31,7 +31,7 @@ const IN = a.join(' ');
 const OUT = MergeSort(a).join(' ');
 
 //####################################################
-//Visualisation
+//### Visualisation
 
 class App extends Component {
   render() {
